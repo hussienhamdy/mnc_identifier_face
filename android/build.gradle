@@ -48,7 +48,7 @@ android {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    implementation "com.github.hussienhamdy.mnc-identifiersdk-android:core:master-SNAPSHOT"
-    implementation "com.github.hussienhamdy.mnc-identifiersdk-android:face-detection:master-SNAPSHOT"
+    implementation "com.github.hussienhamdy.mnc-identifiersdk-android:core:Tag"
+    implementation "com.github.hussienhamdy.mnc-identifiersdk-android:face-detection:Tag"
     implementation 'com.google.code.gson:gson:2.8.9'
 }
